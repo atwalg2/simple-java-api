@@ -12,8 +12,8 @@
   ---------------------------
   ## Spring DATASOURCE (DataSourceAutoConfiguration & DataSourceProperties)
   spring.datasource.url=jdbc:postgresql://localhost:5432/<dbName>
-  spring.datasource.username= uname
-  spring.datasource.password= pass
+  spring.datasource.username= <username>
+  spring.datasource.password= <password>
 
   # The SQL dialect makes Hibernate generate better SQL for the chosen database
   spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
