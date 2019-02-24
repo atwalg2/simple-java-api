@@ -1,13 +1,10 @@
-# TECHNOLOGIES
-`Language: Java`
+# Simple Java Api
 
-`Framework: Springboot`
-
-`ORM: Hibernate`
-
-`DB: Postgresql`
-
-# BASIC REST API
+# Technology
+`Language: Java`  
+`Framework: Springboot`  
+`ORM: Hibernate`  
+`DB: Postgresql` 
 
 ## Configuration
 
