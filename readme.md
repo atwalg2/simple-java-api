@@ -1,7 +1,7 @@
 # TECHNOLOGIES
 `Language: Java`
 
-`DI Framework: Springboot`
+`Framework: Springboot`
 
 `ORM: Hibernate`
 
